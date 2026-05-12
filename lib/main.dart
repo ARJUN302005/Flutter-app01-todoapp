@@ -1,7 +1,7 @@
 // Practicing todo app
 import 'package:flutter/material.dart';
 
-import 'package:practice_basics/taskspage.dart';
+import 'package:app_02_todolist/taskspage.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

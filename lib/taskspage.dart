@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:practice_basics/tasklist.dart';
-import 'package:practice_basics/tasktile.dart';
+import 'package:app_02_todolist/tasklist.dart';
+import 'package:app_02_todolist/tasktile.dart';
 
 class Taskspage extends StatefulWidget {
   const Taskspage({super.key});
